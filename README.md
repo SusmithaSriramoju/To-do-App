@@ -2,9 +2,6 @@
 
 A simple To-Do application built using HTML, CSS, and JavaScript.
 
-## Live Demo
-(https://github.com/SusmithaSriramoju/To-do-App.git)
-
 ## Features
 - Add tasks
 - Delete tasks
@@ -14,6 +11,9 @@ A simple To-Do application built using HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
+
+## Live Demo
+(https://github.com/SusmithaSriramoju/To-do-App.git)
 
 ## Author
 Susmitha
